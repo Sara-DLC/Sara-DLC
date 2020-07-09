@@ -1,8 +1,5 @@
 ### Hi there 👋 
 
-###My name is Sara and I am a Full Stack Software Developer 
-
-
 <!--
 **Sara-DLC/Sara-DLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
